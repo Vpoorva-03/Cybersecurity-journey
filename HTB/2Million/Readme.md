@@ -122,7 +122,7 @@ The presence of an HTTP service indicates that the web application should be inv
 
 # 2. WEB ENUMERATION
 
-The web application can be accessed through:
+The web application can be accessed through after adding it to the /etc/hosts file:
 
 ```text
 http://2million.htb
